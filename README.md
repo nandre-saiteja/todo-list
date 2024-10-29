@@ -13,3 +13,5 @@ A simple and interactive to-do list application built with React.js. This app al
 - **CSS**: For styling and responsiveness.
 
 <img width="1440" alt="Screenshot 2024-10-29 at 8 09 17 PM" src="https://github.com/user-attachments/assets/d29d1ec1-f98a-476d-b78a-f504ea67e10a">
+<img width="1440" alt="Screenshot 2024-10-29 at 8 09 40 PM" src="https://github.com/user-attachments/assets/b60b4c26-8743-4c3d-a88c-6e20c298f2e9">
+<img width="1440" alt="Screenshot 2024-10-29 at 8 09 53 PM" src="https://github.com/user-attachments/assets/6cb4bcaf-3f8d-4fc0-baab-c3cca0344f35">
