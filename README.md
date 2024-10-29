@@ -11,3 +11,5 @@ A simple and interactive to-do list application built with React.js. This app al
 ## Technologies Used
 - **React.js**: For building the user interface and handling component state.
 - **CSS**: For styling and responsiveness.
+
+<img width="1440" alt="Screenshot 2024-10-29 at 8 09 17 PM" src="https://github.com/user-attachments/assets/d29d1ec1-f98a-476d-b78a-f504ea67e10a">
