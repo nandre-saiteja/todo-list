@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nandre-saiteja/todo-list/static/css/main.efa816e8.css",
+    "main.js": "/nandre-saiteja/todo-list/static/js/main.bdaa696f.js",
+    "index.html": "/nandre-saiteja/todo-list/index.html",
+    "main.efa816e8.css.map": "/nandre-saiteja/todo-list/static/css/main.efa816e8.css.map",
+    "main.bdaa696f.js.map": "/nandre-saiteja/todo-list/static/js/main.bdaa696f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa816e8.css",
+    "static/js/main.bdaa696f.js"
+  ]
+}
